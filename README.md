@@ -4,13 +4,13 @@
 A small 2D Game engine writen in 24h! here is the link to the youtube video:
 
 
-# How to install Plug-N Play Engine
+## How to install Plug-N Play Engine
 
-1. Go to the nuget website:
-2. use **nuget** to install the package
-3. Use it and **have fun!**
+1. Create a .Net 6 console application
+2. Install the [Plug_N_Play.Engine](https://www.nuget.org/packages/Plug_N_Play.Engine) package
+3. Have fun!
 
-# Documentation
+## Documentation
 
 To Create A window you start by calling start from the **Game** class:
 ```csharp
@@ -57,4 +57,4 @@ new Game.Start(window, graphics, camera, environment);
 
 Finnished, If you see a white window, you did everything right, if not create an issue and tell us your problem or error you ecountered.
 
-# Deeper Documentation
+## Deeper Documentation
