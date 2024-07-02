@@ -1,0 +1,6 @@
+**.sln
+**.sln.DotSettings.user
+Plug-N Play/bin
+Plug-N Play/obj
+Plug-N Play/**.csproj
+.idea/
