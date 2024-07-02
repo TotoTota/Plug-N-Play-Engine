@@ -233,6 +233,6 @@ You did it, run it, and you will see a white square in the center.
 
 ## Dependencies
 
-System.Drawing
-Silk.Net
-StbImageSharp
+- System.Drawing
+- Silk.Net
+- StbImageSharp
